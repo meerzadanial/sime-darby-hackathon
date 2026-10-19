@@ -1,0 +1,11 @@
+# Local configuration and credentials
+.env
+
+# Local environments and Python artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
+# Large local model files and any test captures
+models/
+captures/
